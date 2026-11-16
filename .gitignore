@@ -1,0 +1,23 @@
+# Saved account credentials (login/password), written by the desktop app
+account_credentials.json
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Runtime logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
